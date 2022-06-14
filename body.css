@@ -1,0 +1,14 @@
+body{
+    background-color: #FCF8E8;
+    font-family: 'Crimson Text', serif;
+}
+
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 90px;
+    padding-top: 90px;
+    font-size: 30px;
+    border: 2px;
+    border-color: black;
+}
+

@@ -1,0 +1,31 @@
+.container{
+    border: 1px;
+    font-family:'Tiro Gurmukhi', serif;
+    border-color: black;
+    padding-top: 60px;
+    padding-left: 150px;
+    padding-right: 100px;
+    margin-right: 8px;
+    display: inline-block;
+    width: 80px;
+    height: 200px;
+    margin-top: 8px;
+}
+    
+.product{
+    height: 200px;
+}
+
+
+.item{
+    display: inline-block;
+    height: 180px;
+    border-radius: 90;
+    border: 1px;
+    transition: .1s;
+}
+
+.item:hover{
+    height: 200px;
+    cursor: pointer;
+}
